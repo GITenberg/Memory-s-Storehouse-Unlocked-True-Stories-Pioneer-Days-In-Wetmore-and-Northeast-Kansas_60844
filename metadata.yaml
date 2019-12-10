@@ -1,11 +1,16 @@
 _repo: Memory-s-Storehouse-Unlocked-True-Stories-Pioneer-Days-In-Wetmore-and-Northeast-Kansas_60844
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60844-h/images/cover.jpg
 creator:
   author:
     agent_name: Bristow, John T.
     gutenberg_agent_id: '51160'
     url: http://www.gutenberg.org/2009/agents/51160
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60844#Memory-s-Storehouse-Unlocked-True-Stories-Pioneer-Days-In-Wetmore-and-Northeast-Kansas
 gutenberg_issued: '2019-12-04'
 gutenberg_type: Text
 identifiers:
